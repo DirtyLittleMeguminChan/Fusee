@@ -14,4 +14,13 @@ typedef struct designVariables
 
 }DesignVariables;
 
+typedef struct launchVariable
+{
+ float Init_volume_eau;
+ float Pression_init_eau;
+ 
+}
+
+
+
 #endif
